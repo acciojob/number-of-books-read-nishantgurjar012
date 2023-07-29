@@ -32,10 +32,3 @@ const library = {
 const numberOfReadBooks = numberOfBooksRead(library);
 console.log(numberOfReadBooks); // Output: 2 (since there are two books with readingStatus set to true)
 
-const numberOfBooksRead = () => {
-  // write your code here
-};
-
-// Do not change the code below
-
-alert(numberOfBooksRead());
